@@ -1,0 +1,1 @@
+ethnoshiny::ethnoshiny_app()
